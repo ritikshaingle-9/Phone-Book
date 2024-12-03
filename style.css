@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #8080ff;
+}
+.container{
+   background-color: white;
+   height: 500px;
+   width: 400px;
+   margin-left: 35%;
+   margin-top: 5%;
+}
+.img{
+    height: 70px;
+    width: 70px;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+.textcenter{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+.search-box{
+    background-color: wheat;
+    padding: 5px;
+    font-size: 15px;
+    color: black;
+    width: 90%;
+    margin-left:20px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+}
